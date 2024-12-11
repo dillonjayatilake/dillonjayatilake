@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on SLIIT as an undergraduate student
+- 🌱 I’m currently learning Information technology
+- 👯 I’m looking to collaborate on Projects related to AI, UI/UX, Arduino and other creative areas
+
+
 <!--
 **dillonjayatilake/dillonjayatilake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
